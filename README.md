@@ -12,5 +12,7 @@ KPIs include:
   <li>Agent’s performance quadrant -> average handle time (talk duration) vs calls answered</li>
 </ol>
 
+<img src="./images/Call Center Analysis.jpg" alt=" Call Center Dashboard" style="width:128px;height:128px;">
+
 <b> 2. Customer Retention Analysis using PowerBI </b>
 Create a dashboard for the retention manager reflecting the KPIs
