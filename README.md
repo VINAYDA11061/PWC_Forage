@@ -2,7 +2,7 @@
 
 Create a dashboard in Power BI for Call Center Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 
-Possible KPIs include (to get you started, but not limited to):
+KPIs include:
 
 <ol>
   <li>Overall customer satisfaction</li>
