@@ -11,7 +11,11 @@ KPIs include:
   <li>Average speed of answer</li>
   <li>Agent’s performance quadrant -> average handle time (talk duration) vs calls answered</li>
 </ol>
-<img height="300" width="800" src="./https://github.com/VINAYDA11061/PWC_Forage/blob/main/Call%20Center%20Analysis.png"/>
+<img height="300" width="800" src="https://github.com/VINAYDA11061/PWC_Forage/blob/main/Call%20Center%20Analysis.png"  />
+
+<div align="left">
+  <img height="300" width="800" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
+</div>
 
 
 <b> 2. Customer Retention Analysis using PowerBI </b>
